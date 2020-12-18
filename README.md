@@ -3,6 +3,11 @@
 Project using React and TypeScript 
 
 
+Preview 
+
+![preview image1](https://raw.githubusercontent.com/kubo550/Minesweeper/master/spaer-previev-1png.png)
+![preview image2](https://raw.githubusercontent.com/kubo550/Minesweeper/master/spaer-previev-2png.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
