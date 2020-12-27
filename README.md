@@ -1,7 +1,7 @@
 # Minesweeper Game
 
 Project using React and TypeScript 
-123
+1234
 
 Preview 
 
