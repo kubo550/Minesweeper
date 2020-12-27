@@ -7,6 +7,7 @@ Preview
 
 ![preview image1](https://raw.githubusercontent.com/kubo550/Minesweeper/master/spaer-previev-1png.png)
 ![preview image2](https://raw.githubusercontent.com/kubo550/Minesweeper/master/spaer-previev-2png.png)
+![preview image2](https://raw.githubusercontent.com/kubo550/Minesweeper/master/spaer-previev-2png.png)
 
 ## Getting Started with Create React App
 
