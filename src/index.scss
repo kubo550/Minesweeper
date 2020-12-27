@@ -19,9 +19,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 
+.head {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
 .board-container {
   display: grid;
-  grid-template: repeat(10, 1fr) / repeat(10, 1fr);
+  grid-template: repeat(15, 1fr) / repeat(15, 1fr);
   background-color: #442421;
   border: 3px solid #442421;
   gap: 2px;
@@ -45,9 +50,35 @@ code {
 
     &.active {
       background-color: $active;
+      &.red {
+        background-color: rgb(250, 46, 46);
+      }
       &:hover {
         cursor: default;
       }
+    }
+  }
+
+  .popup-conntainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba($color: #000000, $alpha: 0.6);
+
+    .popup {
+      width: 290px;
+      height: 220px;
+      background-color: rgba($color: #ffffff, $alpha: 0.8);
+      border-radius: 30px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
     }
   }
 }
