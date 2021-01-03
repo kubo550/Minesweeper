@@ -1,7 +1,7 @@
 # Minesweeper Game
 
 Project using React and TypeScript 
-12345
+123456
 Preview 
 
 ![preview image1](https://raw.githubusercontent.com/kubo550/Minesweeper/master/spaer-previev-1png.png)
