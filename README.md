@@ -1,5 +1,5 @@
 # Minesweeper Game
-1231234
+12312345
 Project using React and TypeScript 
 
 Preview 
